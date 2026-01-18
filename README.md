@@ -6,7 +6,7 @@
 
 ### 🔧 Skills
 - Microsoft Excel (Advanced)
-- Python (Pandas, NumPy)
+- Python (Numpy, Pandas, Matplotlib, Seaborn)
 - PostgreSQL & SQL Queries
 - Data Cleaning & Visualization
 - Reporting & Dashboard Automation
@@ -20,6 +20,9 @@
 To grow into a Senior Data Analyst or Business Intelligence Analyst, delivering impactful insights, 
 building scalable dashboards, and supporting strategic, data-driven business decisions.
 
-📫 **Email:** abdulmalek575060@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/abdul-malek-975693245/
-🔗 **GitHub:** https://github.com/Its-Abdul-Malek
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Its-Abdul-Malek)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulmalek575060@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/A.Abdul.j)
+
