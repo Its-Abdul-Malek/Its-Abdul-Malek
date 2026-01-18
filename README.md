@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Abdul Malek
 
-<!--
-**Its-Abdul-Malek/Its-Abdul-Malek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Data Analyst | Data Entry Specialist  
+📊 Experienced in Excel, Python, and PostgreSQL  
+📈 Passionate about extracting meaningful insights from raw data
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Microsoft Excel (Advanced)
+- Python (Pandas, NumPy)
+- PostgreSQL & SQL Queries
+- Data Cleaning & Visualization
+- Reporting & Dashboard Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- Sales Data Analysis (Excel & Python)
+- Automated Reports using SQL
+- Data Entry & Data Validation Projects
+
+### 🎯 Career Goal
+To grow into a Senior Data Analyst or Business Intelligence Analyst, delivering impactful insights, 
+building scalable dashboards, and supporting strategic, data-driven business decisions.
+
+📫 **Email:** abdulmalek575060@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/abdul-malek-975693245/
+🔗 **GitHub:** https://github.com/Its-Abdul-Malek
